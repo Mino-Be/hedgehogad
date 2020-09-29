@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hedgehogad/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hedgehogad/static/js/main.5a37b85f.chunk.js",
+    "main.js.map": "/hedgehogad/static/js/main.5a37b85f.chunk.js.map",
+    "runtime-main.js": "/hedgehogad/static/js/runtime-main.7b925772.js",
+    "runtime-main.js.map": "/hedgehogad/static/js/runtime-main.7b925772.js.map",
+    "static/js/2.f133d9ce.chunk.js": "/hedgehogad/static/js/2.f133d9ce.chunk.js",
+    "static/js/2.f133d9ce.chunk.js.map": "/hedgehogad/static/js/2.f133d9ce.chunk.js.map",
+    "index.html": "/hedgehogad/index.html",
+    "precache-manifest.2a1efad3369945c17d106c8bc86aa401.js": "/hedgehogad/precache-manifest.2a1efad3369945c17d106c8bc86aa401.js",
+    "service-worker.js": "/hedgehogad/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hedgehogad/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f133d9ce.chunk.js.LICENSE.txt": "/hedgehogad/static/js/2.f133d9ce.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hedgehogad/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b925772.js",
+    "static/js/2.f133d9ce.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5a37b85f.chunk.js"
+  ]
+}
