@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="563" height="433" viewBox="0 0 563 433" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_1"><path d="M0,0H563V433H0Z"/></clipPath>
+<clipPath id="c0"><path d="M0,433.1V0H563V433.1Z"/></clipPath>
+<clipPath id="c1"><path d="M448.6,353.5V8H563V353.5Z"/></clipPath>
+<clipPath id="c2"><path d="M297.9,198.2V86.4H409.7V198.2Z"/></clipPath>
+<clipPath id="c3"><path d="M297.9,378.7V266.9H409.7V378.7Z"/></clipPath>
+<clipPath id="c4"><path d="M1.5,198.2V86.4H113.3V198.2Z"/></clipPath>
+<clipPath id="c5"><path d="M1.5,378.7V266.9H113.3V378.7Z"/></clipPath>
+<clipPath id="c6"><path d="M563,433.1H0V0H563V433.1Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1{
+font-size: 18.33px;
+font-family: Century_1w;
+fill: #000;
+}
+.s2{
+font-size: 16.77px;
+font-family: Century_1w;
+fill: #000;
+stroke: #000;
+stroke-width: 0.5;
+}
+.s3{
+font-size: 21.36px;
+font-family: Century_1w;
+fill: #000;
+}
+.s4{
+font-size: 18.36px;
+font-family: Century_1w;
+fill: #000;
+}
+.s5{
+font-size: 22.92px;
+font-family: Century_1w;
+fill: #000;
+}
+
+.g0{
+fill: #FFFFFF;
+}
+.g1{
+fill: #7E7E7E;
+}
+.g2{
+fill: #0000FF;
+}
+.g3{
+fill: none;
+stroke: #000000;
+stroke-width: 2.291;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4{
+fill: #FF0000;
+}
+.g5{
+fill: none;
+stroke: #7E7E7E;
+stroke-width: 1.527;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6{
+fill: none;
+stroke: #7E7E7E;
+stroke-width: 6.875;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,433
+L563,433
+L563,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<g clip-path="url(#c_1)">
+<path clip-path="url(#c0)" fill-rule="evenodd" d="M0,433.1H563V0H0V433.1Z" class="g0"/>
+<path d="M514.8,27.8l-.1,3.4h-3.4l.1,-3.5Zm-.2,6.9v3.4L511.1,38l.1,-3.4Zm-.1,6.8l-.1,3.5L511,44.9l.1,-3.4Zm-.2,6.9v3.5l-3.5,-.1l.1,-3.5Zm-.1,6.9v1l-.1,2.4l-3.5,-.1l.1,-2.4v-1Zm-.2,6.9l-.1,3.4l-3.5,-.1l.1,-3.4Zm-.2,6.8l-.1,3.5l-3.5,-.1l.1,-3.5Zm-.3,6.9l-.1,3.5L510,79.2l.1,-3.4Zm-.2,6.9v1.3l-.1,2.1l-3.4,-.1l.1,-2.1V82.7Zm-.2,6.9l-.1,3.4L509.5,93l.2,-3.5Zm-.3,6.8v1.2l-.1,2.3l-3.4,-.2l.1,-2.2V96.4Zm-.2,6.9l-.2,3.5l-3.4,-.2l.1,-3.4Zm-.3,6.9l-.1,.9l-.1,2.5l-3.4,-.1l.1,-2.5l.1,-1Zm-.3,6.8l-.2,3.5l-3.4,-.2l.2,-3.4Zm-.3,6.9v.5l-.2,3l-3.4,-.2l.1,-3v-.4Zm-.4,6.9l-.1,3.4l-3.5,-.1l.2,-3.5Zm-.3,6.9l-.2,3.4l-3.4,-.2l.2,-3.4Zm-.4,6.8l-.2,3.5l-3.4,-.2l.2,-3.4Zm-.3,6.9l-.2,3.4l-3.5,-.2l.2,-3.4Zm-.4,6.9l-.2,3.4l-3.5,-.2l.2,-3.4Zm-.4,6.8l-.3,3.5l-3.4,-.2L506,165Zm-.5,6.9l-.2,3.2v.2l-3.4,-.2v-.2l.2,-3.2Zm-.4,6.9l-.2,3.4l-3.5,-.2l.2,-3.4Zm-.5,6.8l-.1,1.7l-.1,1.8l-3.5,-.3l.2,-1.8l.1,-1.6Zm-.5,6.9l-.2,3.4l-3.4,-.2l.2,-3.4Zm-.5,6.9l-.2,3.4l-3.5,-.3l.3,-3.4Zm-.5,6.8l-.3,3.4l-3.4,-.2l.3,-3.4Zm-.5,6.9l-.3,3.4l-3.5,-.3l.3,-3.4Zm-.6,6.8l-.2,2.3l-.1,1.2l-3.4,-.3l.1,-1.2l.2,-2.3Zm-.6,6.9l-.3,3.4l-3.4,-.3l.3,-3.4Zm-.6,6.9l-.3,3.4l-3.5,-.3l.4,-3.5Zm-.7,6.8l-.3,3.4l-3.4,-.3l.3,-3.4Zm-.6,6.8l-.4,3.5l-3.4,-.4l.4,-3.4Zm-.7,6.9l-.1,.4l-.3,3l-3.4,-.4l.3,-3l.1,-.3Zm-.8,6.8l-.3,3.5l-3.4,-.4l.3,-3.4Zm-.7,6.9l-.4,3.4l-3.4,-.4l.4,-3.4Zm-.8,6.8l-.4,3.4l-3.4,-.4l.4,-3.4Zm-.8,6.9l-.4,2.6v.8l-3.5,-.5l.1,-.7l.4,-2.7Zm-.9,6.8l-.4,3.4l-3.4,-.5l.4,-3.4Zm-.9,6.8l-.5,3.4l-3.4,-.5l.5,-3.4Zm-.9,6.8l-.1,.4l-.5,3l-3.3,-.5l.4,-3v-.3Zm-1.1,6.8l-.3,2.2l-.2,1.3l-3.4,-.6l.2,-1.2l.4,-2.2Zm-1,6.8l-.5,3.4l-3.4,-.5l.5,-3.4Zm-1.1,6.9l-.6,3.3l-3.4,-.5l.6,-3.4Zm-1.2,6.7l-.6,3.4l-3.4,-.6l.6,-3.4Zm-1.3,6.8l-.6,3.4l-3.4,-.7l.7,-3.3Zm-1.3,6.8l-.7,3.4l-3.4,-.8l.7,-3.3Zm-1.5,6.7l-.7,3.4l-3.4,-.8l.8,-3.3Zm-1.6,6.8l-.4,1.6l-3.3,-.9l.4,-1.6Zm3.4,.8l-7.6,8.6l-2.4,-11.3Z" class="g1"/>
+<image clip-path="url(#c1)" preserveAspectRatio="none" x="449" y="8" width="132" height="345" xlink:href="1/img/1.png"/>
+<path clip-path="url(#c0)" d="M51.7,318.2l-6.8,-3.9l-2.3,-1.6L40.5,311l-2,-1.8l-2,-2l-1.9,-2.1L32.8,303l-1.7,-2.3l-1.6,-2.4L28,295.9l-1.4,-2.6l-3.3,-7.9l4.2,-1.8l3.3,7.8l-.1,-.2l1.3,2.4v-.1l1.4,2.4v-.1l1.5,2.3l-.1,-.1l1.7,2.2l-.1,-.1l1.7,2.1l-.1,-.1l1.8,2l-.1,-.1l1.9,1.9v-.1l1.9,1.7h-.1l2.1,1.6l-.2,-.1l2.2,1.5l-.3,-.1l6.7,3.8Zm4.4,-8l2.7,9.3l-9.4,2.7l-2.6,-9.4ZM19,287.2l3.8,-9l8.9,3.7l-3.7,9Z" class="g2"/>
+<image clip-path="url(#c2)" preserveAspectRatio="none" x="298" y="86" width="112" height="112" xlink:href="1/img/2.jpg"/>
+<image clip-path="url(#c3)" preserveAspectRatio="none" x="298" y="267" width="112" height="112" xlink:href="1/img/3.jpg"/>
+<image clip-path="url(#c4)" preserveAspectRatio="none" x="1" y="86" width="112" height="112" xlink:href="1/img/4.jpg"/>
+<image clip-path="url(#c5)" preserveAspectRatio="none" x="1" y="267" width="112" height="112" xlink:href="1/img/5.jpg"/>
+<g clip-path="url(#c6)">
+<path fill-rule="evenodd" d="M81.3,194.6L75.4,183.8l-4.2,2.3L70,169.9l12.9,9.8l-4.2,2.4l5.8,10.7Z" class="g0"/>
+<path d="M81.3,194.6L75.4,183.8l-4.2,2.3L70,169.9l12.9,9.8l-4.2,2.4l5.8,10.7Z" class="g3"/>
+</g>
+<path d="M58.4,143.9l5.5,7.4l1.6,2.9l1.4,2.9l3.2,9.3l-4.3,1.4l-3.2,-9l.1,.2l-1.3,-2.8l.1,.1L60,153.6l.1,.3l-5.4,-7.3Zm-7.3,5.5l1.3,-9.6L62,141l-1.2,9.7ZM74.5,165L70,173.6l-8.6,-4.4l4.4,-8.7Z" class="g4"/>
+<g clip-path="url(#c6)">
+<path fill-rule="evenodd" d="M81.6,374.4L75.7,363.6L71.5,366L70.2,349.7l13,9.8L79,361.9l5.8,10.7Z" class="g0"/>
+<path d="M81.6,374.4L75.7,363.6L71.5,366L70.2,349.7l13,9.8L79,361.9l5.8,10.7Z" class="g3"/>
+</g>
+<g clip-path="url(#c0)">
+<path d="M63.5,349.9l-6.7,-3.8l-2.3,-1.7l-2.1,-1.7l-2.1,-1.8l-2,-2l-1.8,-2l-1.8,-2.2L43,332.4l-1.6,-2.3l-1.5,-2.5L38.5,325l-3.3,-7.8l4.2,-1.8l3.3,7.7l-.1,-.2l1.3,2.5v-.1l1.4,2.3l-.1,-.1l1.6,2.3l-.1,-.1l1.6,2.2v-.1l1.7,2.1l-.1,-.1l1.8,2l-.1,-.1l1.9,1.9l-.1,-.1l2,1.8l-.1,-.1l2,1.6h-.1l2.1,1.5l-.2,-.2l6.7,3.8Zm4.5,-8l2.7,9.4l-9.4,2.6l-2.6,-9.3Zm-37.1,-23l3.7,-9l9,3.7l-3.7,9Z" class="g2"/>
+<text x="98" y="404" dx="0,0,0,0,0,.1,0,0,0,0,0,0" class="s1">user editing</text>
+</g>
+<path d="M190.3,409.1l-94.2,-.4L83.8,383.1" class="g5"/>
+<path d="M117.7,145.8H276.2V139H117.7Zm155.1,6.9l20.6,-10.3L272.8,132.1Z" class="g1"/>
+<path d="M117.4,326.4H275.9v-6.8H117.4Zm155,6.9L293,323L272.4,312.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M135.7,120.9c0,-1.1,1,-2.1,2.1,-2.1H261.4c1.1,0,2.1,1,2.1,2.1v47c0,1.1,-1,2.1,-2.1,2.1H137.8c-1.1,0,-2.1,-1,-2.1,-2.1Z" class="g0"/>
+<path d="M135.7,120.9c0,-1.1,1,-2.1,2.1,-2.1H261.4c1.1,0,2.1,1,2.1,2.1v47c0,1.1,-1,2.1,-2.1,2.1H137.8c-1.1,0,-2.1,-1,-2.1,-2.1Z" class="g5"/>
+<text clip-path="url(#c0)" x="150" y="150" dx="0,.1,.1,.1,.1,0,.1,-.1,0,0,0,.1" class="s2">optimization</text>
+<path fill-rule="evenodd" d="M136,298.9c0,-1.2,.9,-2.1,2.1,-2.1H261.7c1.1,0,2.1,.9,2.1,2.1v46.8c0,1.2,-1,2.1,-2.1,2.1H138.1c-1.2,0,-2.1,-.9,-2.1,-2.1Z" class="g0"/>
+<path d="M136,298.9c0,-1.2,.9,-2.1,2.1,-2.1H261.7c1.1,0,2.1,.9,2.1,2.1v46.8c0,1.2,-1,2.1,-2.1,2.1H138.1c-1.2,0,-2.1,-.9,-2.1,-2.1Z" class="g5"/>
+<g clip-path="url(#c0)">
+<text x="150" y="328" dx="0,.1,.1,.1,.1,0,.1,-.1,0,0,0,.1" class="s2">optimization</text>
+<text x="459" y="399" dx="0,0,0,0,-.1,0,0,0" class="s3">Falling </text>
+<text x="445" y="423" dx="0,0,0,-.1,0,0,0,0,0" class="s3">Animation</text>
+</g>
+<path d="M348.5,64.1l1.4,-42.9l3.4,3.5L56.7,24.3l3.4,-3.4V45.3H53.3V17.4l303.6,.5l-1.6,46.4ZM67,41.8L56.7,62.4L46.4,41.8Z" class="g1"/>
+<text clip-path="url(#c0)" x="98" y="220" dx="0,0,0,0,0,0,0,0,0,0,0,-.1" class="s4">user editing</text>
+<path d="M190.3,225.6l-94.2,-.3L83.8,199.7" class="g5"/>
+<path d="M425.3,229.1l17.9,.1v6.9L425.3,236Zm14.5,-6.8l20.6,10.5l-20.7,10.1Z" class="g1"/>
+<path d="M428.8,139.3V325.5m-11.9,-3h13.6m-13.6,-180h13.6" class="g6"/>
+<g clip-path="url(#c0)">
+<text x="122" y="91" dx="0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0" class="s5">force coefficient</text>
+<text x="113" y="276" dx="0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0" class="s5">torque coefficient</text>
+</g>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Century_1w;
+	src: url("fonts/Century_1w.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
