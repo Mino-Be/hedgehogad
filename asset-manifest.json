@@ -1,24 +1,18 @@
 {
   "files": {
-    "main.css": "/hedgehogad/static/css/main.8bcb74f7.chunk.css",
-    "main.js": "/hedgehogad/static/js/main.4665a3a4.chunk.js",
-    "main.js.map": "/hedgehogad/static/js/main.4665a3a4.chunk.js.map",
+    "main.css": "/hedgehogad/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/hedgehogad/static/js/main.aab3d135.chunk.js",
+    "main.js.map": "/hedgehogad/static/js/main.aab3d135.chunk.js.map",
     "runtime-main.js": "/hedgehogad/static/js/runtime-main.7b925772.js",
     "runtime-main.js.map": "/hedgehogad/static/js/runtime-main.7b925772.js.map",
-    "static/js/2.95239c23.chunk.js": "/hedgehogad/static/js/2.95239c23.chunk.js",
-    "static/js/2.95239c23.chunk.js.map": "/hedgehogad/static/js/2.95239c23.chunk.js.map",
     "index.html": "/hedgehogad/index.html",
-    "precache-manifest.524b2785ff94bd4b702983b2f35eccb6.js": "/hedgehogad/precache-manifest.524b2785ff94bd4b702983b2f35eccb6.js",
+    "precache-manifest.33db37302e59ce4034b188f62989a622.js": "/hedgehogad/precache-manifest.33db37302e59ce4034b188f62989a622.js",
     "service-worker.js": "/hedgehogad/service-worker.js",
-    "static/css/main.8bcb74f7.chunk.css.map": "/hedgehogad/static/css/main.8bcb74f7.chunk.css.map",
-    "static/js/2.95239c23.chunk.js.LICENSE.txt": "/hedgehogad/static/js/2.95239c23.chunk.js.LICENSE.txt",
-    "static/media/fallingLeaves.jpg": "/hedgehogad/static/media/fallingLeaves.05609ca9.jpg",
-    "static/media/systemOverview2.jpg": "/hedgehogad/static/media/systemOverview2.ef40d0d9.jpg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/hedgehogad/static/css/main.5ecd60fb.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.7b925772.js",
-    "static/js/2.95239c23.chunk.js",
-    "static/css/main.8bcb74f7.chunk.css",
-    "static/js/main.4665a3a4.chunk.js"
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.aab3d135.chunk.js"
   ]
 }

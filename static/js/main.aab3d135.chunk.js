@@ -1,0 +1,2 @@
+(this.webpackJsonphedgehogad=this.webpackJsonphedgehogad||[]).push([[0],[function(o,n,e){o.exports=e(2)},function(o,n,e){},function(o,n,e){"use strict";e.r(n);e(1),Boolean("localhost"===window.location.hostname||"[::1]"===window.location.hostname||window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/));"serviceWorker"in navigator&&navigator.serviceWorker.ready.then((function(o){o.unregister()})).catch((function(o){console.error(o.message)}))}],[[0,1]]]);
+//# sourceMappingURL=main.aab3d135.chunk.js.map
