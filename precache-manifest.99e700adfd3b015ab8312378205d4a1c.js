@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab743593df2da55996079edd1873f98c",
+    "revision": "95697c075ad317bc0c43121063f8b2e8",
     "url": "/hedgehogad/index.html"
   },
   {
-    "revision": "fff5f65ec25f5c55b4b5",
-    "url": "/hedgehogad/static/css/main.ed030564.chunk.css"
+    "revision": "115f6c9fb3be88eb275b",
+    "url": "/hedgehogad/static/css/main.5d2e960a.chunk.css"
   },
   {
     "revision": "4296d9c3d83baeb328cc",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hedgehogad/static/js/2.95239c23.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fff5f65ec25f5c55b4b5",
-    "url": "/hedgehogad/static/js/main.9ff6ac94.chunk.js"
+    "revision": "115f6c9fb3be88eb275b",
+    "url": "/hedgehogad/static/js/main.9d7fb5af.chunk.js"
   },
   {
     "revision": "34bef8b22945b42bc3e0",
