@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hedgehogad/static/css/main.0f012305.chunk.css",
-    "main.js": "/hedgehogad/static/js/main.113ad84a.chunk.js",
-    "main.js.map": "/hedgehogad/static/js/main.113ad84a.chunk.js.map",
+    "main.js": "/hedgehogad/static/js/main.ad204e4c.chunk.js",
+    "main.js.map": "/hedgehogad/static/js/main.ad204e4c.chunk.js.map",
     "runtime-main.js": "/hedgehogad/static/js/runtime-main.7b925772.js",
     "runtime-main.js.map": "/hedgehogad/static/js/runtime-main.7b925772.js.map",
     "static/js/2.95239c23.chunk.js": "/hedgehogad/static/js/2.95239c23.chunk.js",
     "static/js/2.95239c23.chunk.js.map": "/hedgehogad/static/js/2.95239c23.chunk.js.map",
     "index.html": "/hedgehogad/index.html",
-    "precache-manifest.6539bd4723253c83b459b93df5a4237d.js": "/hedgehogad/precache-manifest.6539bd4723253c83b459b93df5a4237d.js",
+    "precache-manifest.f30e84b3791181e82b696bc690680f5b.js": "/hedgehogad/precache-manifest.f30e84b3791181e82b696bc690680f5b.js",
     "service-worker.js": "/hedgehogad/service-worker.js",
     "static/css/main.0f012305.chunk.css.map": "/hedgehogad/static/css/main.0f012305.chunk.css.map",
     "static/js/2.95239c23.chunk.js.LICENSE.txt": "/hedgehogad/static/js/2.95239c23.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.7b925772.js",
     "static/js/2.95239c23.chunk.js",
     "static/css/main.0f012305.chunk.css",
-    "static/js/main.113ad84a.chunk.js"
+    "static/js/main.ad204e4c.chunk.js"
   ]
 }
