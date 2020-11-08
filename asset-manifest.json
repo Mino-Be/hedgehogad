@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hedgehogad/static/css/main.0f012305.chunk.css",
+    "main.css": "/hedgehogad/static/css/main.2faa2a5e.chunk.css",
     "main.js": "/hedgehogad/static/js/main.ad204e4c.chunk.js",
     "main.js.map": "/hedgehogad/static/js/main.ad204e4c.chunk.js.map",
     "runtime-main.js": "/hedgehogad/static/js/runtime-main.7b925772.js",
@@ -8,9 +8,9 @@
     "static/js/2.95239c23.chunk.js": "/hedgehogad/static/js/2.95239c23.chunk.js",
     "static/js/2.95239c23.chunk.js.map": "/hedgehogad/static/js/2.95239c23.chunk.js.map",
     "index.html": "/hedgehogad/index.html",
-    "precache-manifest.f30e84b3791181e82b696bc690680f5b.js": "/hedgehogad/precache-manifest.f30e84b3791181e82b696bc690680f5b.js",
+    "precache-manifest.5255b72917ac7d2a398efb3a99b6fdb2.js": "/hedgehogad/precache-manifest.5255b72917ac7d2a398efb3a99b6fdb2.js",
     "service-worker.js": "/hedgehogad/service-worker.js",
-    "static/css/main.0f012305.chunk.css.map": "/hedgehogad/static/css/main.0f012305.chunk.css.map",
+    "static/css/main.2faa2a5e.chunk.css.map": "/hedgehogad/static/css/main.2faa2a5e.chunk.css.map",
     "static/js/2.95239c23.chunk.js.LICENSE.txt": "/hedgehogad/static/js/2.95239c23.chunk.js.LICENSE.txt",
     "static/media/UserStudyResults.jpg": "/hedgehogad/static/media/UserStudyResults.24925b63.jpg",
     "static/media/systemOverview.jpg": "/hedgehogad/static/media/systemOverview.ef40d0d9.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.7b925772.js",
     "static/js/2.95239c23.chunk.js",
-    "static/css/main.0f012305.chunk.css",
+    "static/css/main.2faa2a5e.chunk.css",
     "static/js/main.ad204e4c.chunk.js"
   ]
 }

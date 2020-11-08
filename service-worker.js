@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hedgehogad/precache-manifest.f30e84b3791181e82b696bc690680f5b.js"
+  "/hedgehogad/precache-manifest.5255b72917ac7d2a398efb3a99b6fdb2.js"
 );
 
 self.addEventListener('message', (event) => {
