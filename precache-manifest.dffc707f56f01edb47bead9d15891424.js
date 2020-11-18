@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a41215e9d700443b7709590749512f43",
+    "revision": "27ef3cffd6cc39d5647ad7708ea1beac",
     "url": "/hedgehogad/index.html"
   },
   {
-    "revision": "3a772f67297a0b4d0171",
-    "url": "/hedgehogad/static/css/main.2faa2a5e.chunk.css"
+    "revision": "1228c7678ebe659417df",
+    "url": "/hedgehogad/static/css/main.21406e34.chunk.css"
   },
   {
-    "revision": "4296d9c3d83baeb328cc",
-    "url": "/hedgehogad/static/js/2.95239c23.chunk.js"
+    "revision": "1fe09ec42587133ad3ff",
+    "url": "/hedgehogad/static/js/2.bc4469c5.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/hedgehogad/static/js/2.95239c23.chunk.js.LICENSE.txt"
+    "url": "/hedgehogad/static/js/2.bc4469c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a772f67297a0b4d0171",
-    "url": "/hedgehogad/static/js/main.ac120d36.chunk.js"
+    "revision": "1228c7678ebe659417df",
+    "url": "/hedgehogad/static/js/main.26bcc432.chunk.js"
   },
   {
     "revision": "34bef8b22945b42bc3e0",
